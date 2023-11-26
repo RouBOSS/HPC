@@ -1,0 +1,11 @@
+----------- Compilation of GPU files -----------
+
+To compile and run the original nbody(nbody.cu) use:
+make 
+./nbody <num of Bodies>
+
+To compile and run the optimized nbody(nbody-soa.cu) use:
+make gpu-soa
+./nbody_soa.cu <num of Bodies>
+
+-------------------------------------------------

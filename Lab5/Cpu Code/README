@@ -1,0 +1,7 @@
+--------- HOW TO RUN EXPERIMENTS --------------
+
+To run the experiments for the CPU we are using the test.bs
+Run with : ./test.bs 
+and it will produce the measurements for 4,16,32 number of threads
+
+------------------------------------------------
